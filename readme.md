@@ -28,19 +28,11 @@ Soy un apasionado por el desarrollo de software, especializado en la creación d
 - Dominar arquitecturas modernas
 - Contribuir a proyectos Open Source
 
-> "El código transforma ideas en realidad."
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daviid/daviid/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daviid/daviid/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daviid/daviid/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daviid/daviid/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daviid/daviid/pacman-output/pacman-contribution-graph.svg">
+</picture>heme: light)" srcset="https://raw.githubusercontent.com/daviid/daviid/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daviid/daviid/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
