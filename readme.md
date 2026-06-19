@@ -1,0 +1,31 @@
+# 👋 Hola, soy David Vélez
+
+## 🚀 Desarrollador de Software | Full Stack en Formación
+
+### 💫 Sobre mí
+Soy un apasionado por el desarrollo de software, especializado en la creación de aplicaciones web y soluciones tecnológicas.
+
+### 🛠️ Tecnologías
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- Python
+- MySQL
+- PostgreSQL
+- Git & GitHub
+- Docker
+
+### 📚 Actualmente aprendiendo
+- Spring Boot
+- Django
+- Kubernetes
+- DevOps
+- Cloud Computing
+
+### 🎯 Objetivos
+- Convertirme en desarrollador Full Stack
+- Dominar arquitecturas modernas
+- Contribuir a proyectos Open Source
+
+> "El código transforma ideas en realidad."
