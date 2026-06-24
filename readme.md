@@ -1,304 +1,176 @@
-# 👨‍💻 David Vélez
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hola, soy David Vélez Pérez
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Backend+and+Frontend+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;ADSO+SENA+Student;Java+Developer;Python+Developer;Frontend+and+Backend+Developer;Learning+Docker+and+Kubernetes" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
+<img src="https://komarev.com/ghpvc/?username=TUUSUARIO&label=Visitors&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-# 🚀 Sobre mí
+# 🚀 Sobre Mí
 
-Hola, soy **David Vélez**, desarrollador Full Stack apasionado por la tecnología, el desarrollo de software y la creación de soluciones innovadoras.
+💻 Desarrollador de Software Full Stack en formación.
 
-💡 Me enfoco en construir aplicaciones escalables, eficientes y fáciles de mantener utilizando buenas prácticas de programación y metodologías ágiles.
+🎓 Aprendiz ADSO (Análisis y Desarrollo de Software) en el SENA.
 
-🎯 Actualmente continúo fortaleciendo mis conocimientos en:
+🧠 Apasionado por la tecnología, inteligencia artificial y el desarrollo de aplicaciones modernas.
 
-* Desarrollo Web Full Stack
+📍 Medellín, Antioquia - Colombia.
+
+🌱 Actualmente aprendiendo:
+
+* Docker
+* Kubernetes
+* Spring Boot
 * Arquitectura de Software
-* Bases de Datos
-* APIs REST
-* Cloud Computing
-* Docker y Kubernetes
 * Inteligencia Artificial
 
 ---
 
-# 🛠️ Tecnologías y Herramientas
+# 🛠️ Stack Tecnológico
 
-## 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,vscode" />
-</p>
-
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
-* Tailwind CSS
-* React
-
----
-
-## ⚙️ Backend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,nodejs,django,php,laravel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react"/>
 </p>
 
-* Java
-* Python
-* Django
-* PHP
-* Laravel
-* Node.js
-
----
-
-## 🗄️ Bases de Datos
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=java,python,nodejs,php,django,laravel"/>
 </p>
 
-* MySQL
-* PostgreSQL
-* MongoDB
-* SQL Server
-
----
-
-## ☁️ DevOps & Cloud
+### Bases de Datos
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/>
 </p>
 
-* Docker
-* Kubernetes
-* Git
-* GitHub
-* Linux
-
----
-
-## 🔧 Herramientas
+### DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux"/>
 </p>
 
-* Postman
-* Swagger
-* Figma
-* VS Code
+### Herramientas
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
+</p>
 
 ---
 
-# 💡 Áreas de Especialización
+# 🎯 Especialidades
 
-✅ Desarrollo Web Full Stack
+✔ Desarrollo Web Full Stack
 
-✅ Programación Orientada a Objetos (POO)
+✔ Programación Orientada a Objetos
 
-✅ Diseño e implementación de APIs REST
+✔ APIs REST
 
-✅ Bases de Datos Relacionales y No Relacionales
+✔ Bases de Datos
 
-✅ Docker y Contenedores
+✔ Diseño Responsive
 
-✅ Kubernetes y Orquestación
+✔ Testing de Software
 
-✅ Arquitectura de Software
+✔ Análisis de Requerimientos
 
-✅ Desarrollo Backend con Java y Python
+✔ Git y GitHub
 
-✅ Diseño Responsivo y Experiencia de Usuario
+✔ Inteligencia Artificial
 
-✅ Integración de Sistemas
-
----
-
-# 📚 Proyectos Destacados
-
-### 🛒 Sistema E-Commerce
-
-Aplicación web para gestión de productos, usuarios, pedidos y pagos.
-
-### 📦 API REST
-
-Backend desarrollado con Java y Spring Boot para gestión de servicios empresariales.
-
-### 📊 Dashboard Analítico
-
-Panel administrativo con gráficos interactivos y métricas en tiempo real.
-
-### 🐳 Laboratorio Docker & Kubernetes
-
-Entorno práctico para despliegue y administración de contenedores.
+✔ Docker & Kubernetes
 
 ---
 
-# 📈 Estadísticas de GitHub
+# 📚 Formación
+
+🎓 Tecnología en Análisis y Desarrollo de Software (ADSO)
+
+🏫 Servicio Nacional de Aprendizaje (SENA)
+
+📖 Actualmente cursando etapa lectiva.
+
+---
+
+# 🚀 Proyectos Destacados
+
+## 🛒 Ecommerce Store
+
+Sistema de gestión de productos, usuarios y órdenes.
+
+## 📦 API REST
+
+Backend profesional desarrollado con Java.
+
+## 📊 Dashboard Administrativo
+
+Visualización de métricas en tiempo real.
+
+## 🐳 Docker Lab
+
+Laboratorio de contenedores Docker.
+
+## ☸ Kubernetes Lab
+
+Orquestación de aplicaciones en Kubernetes.
+
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TUUSUARIO&theme=algolia&row=2&column=4"/>
 </p>
 
 ---
 
-# 🔥 Racha de Contribuciones
+# 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight"/>
 </p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight"/>
+</p>
+
+---
+
+# 👾 Pacman Contributions
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 📊 Actividad
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&theme=tokyo-night"/>
 
 ---
 
 # 🌎 Conecta Conmigo
 
-📧 Email: [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)
+📧 [daviidvp228@gmail.com](mailto:daviidvp228@gmail.com)
 
-💼 LinkedIn: https://linkedin.com/in/tuusuario
+💼 LinkedIn: TU_LINKEDIN
 
-🐙 GitHub: https://github.com/TU_USUARIO
-
----
-
-<p align="center">
-⭐ Gracias por visitar mi perfil ⭐
-</p>
-
-
-# 👋 Hola, soy David Vélez
-
-<div align="center">
-
-### 💻 Desarrollador de Software | Aprendiz Continuo | Apasionado por la Tecnología
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=500&lines=Desarrollador+Full+Stack;Apasionado+por+la+Programaci%C3%B3n;Java+%7C+Python+%7C+JavaScript;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" />
-
-</div>
+🐙 GitHub: https://github.com/TUUSUARIO
 
 ---
 
-## 🚀 Sobre mí
+# ⚡ Frase Favorita
 
-Soy un desarrollador enfocado en la creación de soluciones tecnológicas mediante el desarrollo web y la programación orientada a objetos.
-
-Actualmente me encuentro fortaleciendo mis conocimientos en:
-
-- 🌐 Desarrollo Web
-- ☕ Java
-- 🐍 Python
-- ⚡ JavaScript
-- 🗄️ Bases de Datos
-- 🔥 Frameworks Modernos
-- ☁️ Computación en la Nube
-- 🐳 Docker y Contenedores
-
----
-
-## 🛠️ Tecnologías y Herramientas
-
-### Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
-
-### Backend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,nodejs" />
-</p>
-
-### Bases de Datos
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-### Herramientas
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
-</p>
-
----
-
-## 📊 Estadísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🏆 Logros GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&row=1&column=6"/>
-
-</div>
-
----
-
-## 🐍 Snake Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 📈 Actividad GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night"/>
-
-</div>
-
----
-
-## 🎯 Actualmente aprendiendo
-
-- Docker & Kubernetes
-- Django
-- PostgreSQL
-- Arquitectura de Software
-- Desarrollo Full Stack
-
----
-
-## 📫 Contacto
-
-📧 Correo: tucorreo@gmail.com
-
-💼 LinkedIn: https://linkedin.com/in/tu-perfil
-
-🌐 Portafolio: https://tuportafolio.com
-
----
-
-<div align="center">
-
-### 🚀 "El código transforma ideas en realidad"
-
-</div>
+"El software es una gran combinación entre arte e ingeniería."
