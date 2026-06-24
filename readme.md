@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-tu__usuario-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/YouTube-Lilliana%20Uribe%20G-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&label=Visitas&color=0e75b6&style=flat-square"/>
+  <a href="https://github.com/DAVIDVLEZ-DEVELOPER"><img src="https://img.shields.io/badge/GitHub-DAVIDVLEZ--DEVELOPER-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@davidvelez2715"><img src="https://img.shields.io/badge/YouTube-@davidvelez2715-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=DAVIDVLEZ-DEVELOPER&label=Visitas&color=0e75b6&style=flat-square"/>
 </p>
 
 ---
@@ -90,10 +90,8 @@ Sistema de catálogo digital, menú dinámico y gestión de pedidos optimizado p
 
 ## 👾 Pacman Contributions (Live Game)
 
-La siguiente animación representa un mapa vivo generado de forma dinámica a partir de las contribuciones reales e interacciones del perfil:
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github-led-matrix/github-led-matrix/master/images/pacman.gif" width="100%" alt="Pacman Contribution Map Animated" />
+  <img src="https://raw.githubusercontent.com/DAVIDVLEZ-DEVELOPER/DAVIDVLEZ-DEVELOPER/output/github-contribution-grid-snake.svg" width="100%" alt="Pacman Contribution Map Animated" />
 </p>
 
 ---
@@ -101,16 +99,16 @@ La siguiente animación representa un mapa vivo generado de forma dinámica a pa
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DAVIDVLEZ-DEVELOPER&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVIDVLEZ-DEVELOPER&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_DE_GITHUB&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DAVIDVLEZ-DEVELOPER&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_DE_GITHUB&theme=tokyo-night" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAVIDVLEZ-DEVELOPER&theme=tokyo-night" width="100%" />
 </p>
 
 ---
@@ -118,8 +116,8 @@ La siguiente animación representa un mapa vivo generado de forma dinámica a pa
 ## 🌎 Conecta Conmigo
 
 * 📧 **Correo Electrónico:** [daviidvp228@gmail.com](mailto:daviidvp228@gmail.com)
-* 💼 **LinkedIn:** [Tu Nombre en LinkedIn](https://linkedin.com/in/TU_LINKEDIN)
-* 🐙 **GitHub:** [github.com/TU_USUARIO_DE_GITHUB](https://github.com/TU_USUARIO_DE_GITHUB)
+* 📺 **YouTube:** [@davidvelez2715](https://www.youtube.com/@davidvelez2715)
+* 🐙 **GitHub:** [github.com/DAVIDVLEZ-DEVELOPER](https://github.com/DAVIDVLEZ-DEVELOPER)
 
 ---
 
