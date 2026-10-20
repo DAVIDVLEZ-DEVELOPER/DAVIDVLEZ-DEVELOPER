@@ -1,122 +1,136 @@
-# Hola, soy David Vélez Pérez
+<h1 align="center">Hola 👋, soy David Vélez</h1>
+
+<h3 align="center">Tecnólogo en Análisis y Desarrollo de Software · Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;ADSO+SENA+Student;Especialista+en+Bases+de+Datos+Relacionales;Apasionado+por+la+Inteligencia+Artificial;Frontend+%26+Backend+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Tecnólogo+ADSO+en+formación+-+SENA;Sexto+trimestre+de+la+etapa+lectiva;Back-end+%26+APIs+RESTful;IA+aplicada+al+desarrollo;Docker+%26+Kubernetes" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/DAVIDVLEZ-DEVELOPER"><img src="https://img.shields.io/badge/GitHub-DAVIDVLEZ--DEVELOPER-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@davidvelez2715"><img src="https://img.shields.io/badge/YouTube-@davidvelez2715-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=DAVIDVLEZ-DEVELOPER&label=Visitas&color=0e75b6&style=flat-square"/>
+  <a href="https://github.com/DAVIDVLEZ-DEVELOPER"><img src="https://img.shields.io/badge/GitHub-DAVIDVLEZ--DEVELOPER-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.youtube.com/@DEIIVIDVLEZ"><img src="https://img.shields.io/badge/YouTube-D%C2%B4VLEZ-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:daviidvp228@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <img src="https://komarev.com/ghpvc/?username=DAVIDVLEZ-DEVELOPER&label=Visitas&color=0e75b6&style=for-the-badge" alt="Visitas" />
 </p>
 
 ---
 
-## Sobre Mí
+## 🧑‍💻 Sobre mí
 
-* **Desarrollador de Software Full Stack** enfocado en crear soluciones limpias, estructuradas y eficientes.
-* **Aprendiz ADSO** (Tecnología en Análisis y Desarrollo de Software) en el **SENA**, cursando actualmente el cuarto trimestre de la etapa lectiva.
-* **Autodidacta apasionado** por la arquitectura de software, el diseño de bases de datos relacionales y la integración de herramientas de Inteligencia Artificial.
-* **Medellín, Antioquia - Colombia**.
+- 🎓 **Tecnólogo en Análisis y Desarrollo de Software (ADSO)** — Servicio Nacional de Aprendizaje (**SENA**), cursando el **sexto trimestre** de la etapa lectiva.
+- 💻 **Full Stack Developer** enfocado en crear soluciones limpias, estructuradas y eficientes, con base sólida en lógica de negocio y diseño de interfaces.
+- 🌱 Actualmente profundizando en **arquitecturas de software modernas**, **orquestación de contenedores (Docker & Kubernetes)** y **herramientas de Inteligencia Artificial aplicadas al desarrollo**.
+- 🗄️ Apasionado por el **diseño y optimización de bases de datos relacionales** y la construcción de **APIs RESTful** seguras, documentadas y escalables.
+- 📍 **Medellín, Antioquia — Colombia**.
+- 🚀 Abierto a **prácticas profesionales, oportunidades laborales y colaboración** en proyectos con impacto real.
 
-> Mis focos actuales de aprendizaje: Arquitecturas de Software modernas, Orquestación de contenedores (Docker & Kubernetes) y desarrollo avanzado de APIs robustas.
+> 💡 *"El software es una gran combinación entre arte e ingeniería."*
 
 ---
 
-## Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
-### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+### 🎨 Frontend
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Frontend" /></a>
 </p>
 
-### Backend / Web Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
+### ⚙️ Backend
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,py,nodejs,express,django,fastapi" alt="Backend" /></a>
 </p>
 
-### Bases de Datos
-<p align="left">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+### 🗄️ Bases de Datos
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" alt="Bases de datos" /></a>
 </p>
 
-### DevOps y Control de Versiones
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+### 🚀 DevOps & Herramientas
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,vscode" alt="DevOps y herramientas" /></a>
 </p>
 
 ---
 
-## Especialidades
+## 💡 Especialidades
 
-* **Desarrollo Web Full Stack** (Manejo integral de lógica y vistas de usuario).
-* **Diseño y Optimización de Bases de Datos** (Modelado Relacional robusto).
-* **Construcción de APIs RESTful** seguras, documentadas y escalables.
-* **Buenas Prácticas de Programación** (POO, Código Limpio y Estructurado).
-* **Trabajo Colaborativo** mediante control de versiones estricto con Git/GitHub.
+- **Desarrollo Web Full Stack** — manejo integral de lógica de negocio y vistas de usuario.
+- **Diseño y optimización de bases de datos** — modelado relacional robusto e indicadores de calidad.
+- **Construcción de APIs RESTful** — seguras, documentadas y escalables.
+- **Buenas prácticas de programación** — POO, código limpio y estructurado.
+- **Trabajo colaborativo** — control de versiones con Git/GitHub y metodologías ágiles.
 
 ---
 
-## Proyectos Destacados
+## 📦 Proyectos Destacados
 
-### D&D Textil — E-commerce
-Plataforma completa de comercio electrónico especializada en la venta de textiles por metros. Incluye pasarela de gestión, control de inventarios, diseño responsive y base de datos relacional optimizada.
+### [🛒 D&D Textil — E-commerce](https://github.com/DAVIDVLEZ-DEVELOPER/PROYECTO-SENA-TIENDA-TEXTIL)
 
-### TPPMap — Plataforma de Movilidad Urbana
-Proyecto arquitectónico de software diseñado para la integración y visualización de datos de movilidad ciudadana en tiempo real (SIATA y MEData) para el valle de Aburrá.
+Plataforma completa de comercio electrónico especializada en la venta de textiles por metros. Incluye gestión de pedidos, control de inventarios, diseño responsive y base de datos relacional optimizada.
 
-### Los Artesanales — Aplicación Comercial
+`JavaScript` `React` `API REST` `MySQL`
+
+### [🗺️ PPTMaps — Plataforma de Movilidad Urbana](https://github.com/DAVIDVLEZ-DEVELOPER/PPTMaps)
+
+Aplicación de visualización de datos de movilidad ciudadana para el Valle de Aburrá, diseñada para integrar y presentar información de fuentes como SIATA y MEData.
+
+`JavaScript` `Visualización de Datos` `APIs`
+
+### [🏰 Architect TD — Tower Defense (Dockerized)](https://github.com/DAVIDVLEZ-DEVELOPER/architect-td)
+
+Juego Tower Defense desarrollado como laboratorio de **DevOps y Arquitectura de Software**: containerizado con Docker y orientado a prácticas de infraestructura como código.
+
+`JavaScript` `Docker` `DevOps` `Arquitectura de Software`
+
+### 🍡 Los Artesanales — Aplicación Comercial
+
 Sistema de catálogo digital, menú dinámico y gestión de pedidos optimizado para un modelo de negocio de alimentos artesanales.
 
 ---
 
-## Pacman Contributions
+## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-led-matrix.github.io/github-led-matrix/static/pacman.gif" width="100%" alt="Pacman Contribution Map" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DAVIDVLEZ-DEVELOPER&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="170" src="https://streak-stats.demolab.com?user=DAVIDVLEZ-DEVELOPER&theme=tokyonight&border=30363D" alt="Racha de contribuciones" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVIDVLEZ-DEVELOPER&layout=compact&theme=tokyonight&bg_color=0D1117" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=DAVIDVLEZ-DEVELOPER&theme=onedark&column=7&margin-w=10&margin-h=10" alt="Logros de GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAVIDVLEZ-DEVELOPER&theme=github-dark&bg_color=0D1117&color=58A6FF&line=39C5BB&point=79C0FF&height=220" alt="Gráfico de actividad" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Serpiente de contribuciones" />
+  </picture>
 </p>
 
 ---
 
-## Estadísticas de GitHub
+## 📬 Conecta Conmigo
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DAVIDVLEZ-DEVELOPER&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVIDVLEZ-DEVELOPER&layout=compact&theme=tokyonight" />
+  <a href="mailto:daviidvp228@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.youtube.com/@DEIIVIDVLEZ"><img src="https://img.shields.io/badge/YouTube-D%C2%B4VLEZ-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://github.com/DAVIDVLEZ-DEVELOPER"><img src="https://img.shields.io/badge/GitHub-DAVIDVLEZ--DEVELOPER-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DAVIDVLEZ-DEVELOPER&theme=tokyonight" />
+  <em>¿Tienes un proyecto o una oportunidad? ¡Hablemos! 🚀</em>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAVIDVLEZ-DEVELOPER&theme=tokyo-night" width="100%" />
-</p>
-
----
-
-## Conecta Conmigo
-
-* 📧 **Correo Electrónico:** [daviidvp228@gmail.com](mailto:daviidvp228@gmail.com)
-* 📺 **YouTube:** [@davidvelez2715](https://www.youtube.com/@davidvelez2715)
-* 🐙 **GitHub:** [github.com/DAVIDVLEZ-DEVELOPER](https://github.com/DAVIDVLEZ-DEVELOPER)
-
----
-
-## Frase Favorita
-
-<blockquote>"El software es una gran combinación entre arte e ingeniería."</blockquote>
