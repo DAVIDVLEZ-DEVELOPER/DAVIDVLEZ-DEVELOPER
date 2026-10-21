@@ -26,7 +26,7 @@
 <br/>
 
 <div align="center">
-  <img src="assets/terminal-tux.svg" width="94%" alt="Terminal fastfetch — David Vélez"/>
+  <img src="assets/terminal-card.svg" width="94%" alt="Terminal fastfetch — David Vélez"/>
 </div>
 
 <br/>
@@ -60,7 +60,7 @@
       <h4>🗄️ Datos, DevOps &amp; Herramientas</h4>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,git,github,docker,kubernetes,postman,vscode,linux,ubuntu&theme=dark&perline=6" alt="Datos y DevOps"/>
+          <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,git,github,docker,kubernetes,postman,vscode,linux&theme=dark&perline=6" alt="Datos y DevOps"/>
         </a>
       </p>
       <sub>Modelado relacional, contenedores y orquestación; control de versiones y documentación de APIs con Postman.</sub>
@@ -106,10 +106,10 @@
 
 <br/>
 
-## 🐧 Tux recoge mis contribuciones
+## 🦝 Pac-Mapache recoge mis contribuciones
 
 <div align="center">
-  <img src="assets/tux-chomp.svg" width="94%" alt="Tux de Ubuntu comiendo commits estilo Pac-Man"/>
+  <img src="assets/pacman-game.svg" width="94%" alt="Mapache estilo Pac-Man comiendo commits"/>
 </div>
 
 <br/>

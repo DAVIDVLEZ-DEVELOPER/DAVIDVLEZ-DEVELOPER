@@ -20,15 +20,15 @@
   <g clip-path="url(#clip)"><rect class="shine" x="0" y="0" width="150" height="3" fill="url(#shine)"/></g>
 
   <rect x="24" y="24" width="52" height="52" rx="14" fill="#21262D" stroke="#F5A623" stroke-opacity="0.6"/>
-  <text x="50" y="57" text-anchor="middle" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="17" font-weight="700" fill="#F5A623">LA</text>
-  <text x="92" y="47" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="19" font-weight="700" fill="#F0F6FC">Los Artesanales</text>
-  <text x="92" y="70" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="12" fill="#8B949E">Aplicación comercial · próximamente</text>
+  <text x="50" y="57" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="17" font-weight="700" fill="#F5A623">LA</text>
+  <text x="92" y="47" font-family="'Segoe UI',Arial,sans-serif" font-size="19" font-weight="700" fill="#F0F6FC">Los Artesanales</text>
+  <text x="92" y="70" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#8B949E">Aplicación comercial · próximamente</text>
 
-  <text x="24" y="114" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="13" fill="#A2AAC3">Catálogo digital, menú dinámico y gestión de</text>
-  <text x="24" y="134" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="13" fill="#A2AAC3">pedidos para un negocio de alimentos.</text>
+  <text x="24" y="114" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#A2AAC3">Catálogo digital, menú dinámico y gestión de</text>
+  <text x="24" y="134" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#A2AAC3">pedidos para un negocio de alimentos.</text>
 
   <rect x="24" y="152" width="104" height="24" rx="12" fill="#21262D" stroke="#30363D"/>
-  <text x="76" y="168" text-anchor="middle" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="11.5" fill="#8B949E">En desarrollo</text>
+  <text x="76" y="168" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" fill="#8B949E">En desarrollo</text>
   <rect x="136" y="152" width="76" height="24" rx="12" fill="#21262D" stroke="#30363D"/>
-  <text x="174" y="168" text-anchor="middle" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="11.5" fill="#8B949E">Comercio</text>
+  <text x="174" y="168" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" fill="#8B949E">Comercio</text>
 </svg>

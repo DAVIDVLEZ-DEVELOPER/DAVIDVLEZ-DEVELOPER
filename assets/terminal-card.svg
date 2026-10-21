@@ -1,19 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="940" height="390" viewBox="0 0 940 390" role="img" aria-label="Terminal fastfetch con informacion de David Velez">
   <defs>
-    <g id="tux">
-      <ellipse cx="0" cy="4" rx="30" ry="7" fill="#000000" opacity="0.4"/>
-      <ellipse cx="-11" cy="2" rx="12" ry="6" fill="#F5A623"/>
-      <ellipse cx="11" cy="2" rx="12" ry="6" fill="#F5A623"/>
-      <ellipse cx="-24" cy="-40" rx="7" ry="17" fill="#232323" stroke="#55505A" stroke-width="1" transform="rotate(18 -24 -40)"/>
-      <ellipse cx="24" cy="-40" rx="7" ry="17" fill="#232323" stroke="#55505A" stroke-width="1" transform="rotate(-18 24 -40)"/>
-      <ellipse cx="0" cy="-34" rx="27" ry="34" fill="#232323" stroke="#55505A" stroke-width="1.5"/>
-      <ellipse cx="3" cy="-30" rx="18" ry="26" fill="#F4F1EA"/>
-      <circle cx="0" cy="-66" r="21" fill="#232323" stroke="#55505A" stroke-width="1"/>
-      <ellipse cx="-6" cy="-72" rx="6.5" ry="7.5" fill="#FFFFFF"/>
-      <ellipse cx="8" cy="-72" rx="6.5" ry="7.5" fill="#FFFFFF"/>
-      <circle cx="-4" cy="-71" r="3" fill="#111111"/>
-      <circle cx="10" cy="-71" r="3" fill="#111111"/>
-      <path d="M 3 -62 L 25 -57 L 3 -53 Z" fill="#F5A623"/>
+    <g id="raccoon">
+      <ellipse cx="0" cy="4" rx="28" ry="7" fill="#000000" opacity="0.4"/>
+      <path d="M 16 -18 C 34 -28 40 -48 30 -62" stroke="#484F58" stroke-width="12" stroke-linecap="round" fill="none"/>
+      <path d="M 16 -18 C 34 -28 40 -48 30 -62" stroke="#C9D1D9" stroke-width="12" stroke-dasharray="6 8" fill="none"/>
+      <circle cx="29" cy="-64" r="4.5" fill="#E6E9EE"/>
+      <ellipse cx="-10" cy="2" rx="11" ry="6" fill="#484F58"/>
+      <ellipse cx="10" cy="2" rx="11" ry="6" fill="#484F58"/>
+      <ellipse cx="0" cy="-28" rx="24" ry="30" fill="#8B949E"/>
+      <ellipse cx="0" cy="-24" rx="15" ry="21" fill="#C9D1D9"/>
+      <ellipse cx="-23" cy="-30" rx="7" ry="13" fill="#6E7681" transform="rotate(16 -23 -30)"/>
+      <ellipse cx="23" cy="-30" rx="7" ry="13" fill="#6E7681" transform="rotate(-16 23 -30)"/>
+      <circle cx="0" cy="-62" r="22" fill="#8B949E"/>
+      <path d="M -16 -74 L -21 -92 L -4 -82 Z" fill="#6E7681"/>
+      <path d="M -14 -76 L -17 -88 L -6 -81 Z" fill="#B0B8C1"/>
+      <path d="M 16 -74 L 21 -92 L 4 -82 Z" fill="#6E7681"/>
+      <path d="M 14 -76 L 17 -88 L 6 -81 Z" fill="#B0B8C1"/>
+      <path d="M -20 -64 Q 0 -72 20 -64 Q 20 -54 0 -56 Q -20 -54 -20 -64 Z" fill="#21262D"/>
+      <ellipse cx="-8" cy="-61" rx="6.5" ry="5.5" fill="#F0F6FC"/>
+      <ellipse cx="8" cy="-61" rx="6.5" ry="5.5" fill="#F0F6FC"/>
+      <circle cx="-7" cy="-60.5" r="2.6" fill="#111111"/>
+      <circle cx="9" cy="-60.5" r="2.6" fill="#111111"/>
+      <circle cx="-6.2" cy="-61.5" r="0.9" fill="#FFFFFF"/>
+      <circle cx="9.8" cy="-61.5" r="0.9" fill="#FFFFFF"/>
+      <ellipse cx="0" cy="-51" rx="9" ry="6.5" fill="#E6E9EE"/>
+      <ellipse cx="0" cy="-53" rx="3.4" ry="2.6" fill="#21262D"/>
+      <path d="M 0 -50 Q -4 -47 -7 -49" stroke="#21262D" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+      <path d="M 0 -50 Q 4 -47 7 -49" stroke="#21262D" stroke-width="1.4" fill="none" stroke-linecap="round"/>
     </g>
     <style>
       .cur { animation: blink 1s steps(1) infinite; }
@@ -31,14 +44,14 @@
   <circle cx="20" cy="18" r="6" fill="#FF5F56"/>
   <circle cx="42" cy="18" r="6" fill="#FFBD2E"/>
   <circle cx="64" cy="18" r="6" fill="#27C93F"/>
-  <text x="470" y="23" text-anchor="middle" font-family="'Cascadia Code','Consolas',monospace" font-size="13" fill="#8B949E">david@ubuntu — fastfetch</text>
+  <text x="470" y="23" text-anchor="middle" font-family="'Cascadia Code','Consolas',monospace" font-size="13" fill="#8B949E">david@devbox — fastfetch</text>
 
   <ellipse class="glow" cx="175" cy="336" rx="86" ry="14" fill="#E95420" opacity="0.4"/>
-  <use href="#tux" transform="translate(175,330) scale(2.05)"/>
+  <use href="#raccoon" transform="translate(175,330) scale(2.05)"/>
 
-  <text x="340" y="92" font-family="'Cascadia Code','Consolas',monospace" font-size="18" font-weight="700" fill="#39D353">david<tspan fill="#58A6FF">@ubuntu</tspan></text>
+  <text x="340" y="92" font-family="'Cascadia Code','Consolas',monospace" font-size="18" font-weight="700" fill="#39D353">david<tspan fill="#58A6FF">@devbox</tspan></text>
   <line x1="340" y1="114" x2="540" y2="114" stroke="#484F58" stroke-width="2"/>
-  <text x="340" y="150" font-family="'Cascadia Code','Consolas',monospace" font-size="15" font-weight="700" fill="#58A6FF">OS<tspan font-weight="400" fill="#C9D1D9">: Ubuntu 24.04 LTS</tspan></text>
+  <text x="340" y="150" font-family="'Cascadia Code','Consolas',monospace" font-size="15" font-weight="700" fill="#58A6FF">Sistema<tspan font-weight="400" fill="#C9D1D9">: GNU/Linux x86_64</tspan></text>
   <text x="340" y="178" font-family="'Cascadia Code','Consolas',monospace" font-size="15" font-weight="700" fill="#58A6FF">Formación<tspan font-weight="400" fill="#C9D1D9">: SENA · ADSO · Sexto trimestre</tspan></text>
   <text x="340" y="206" font-family="'Cascadia Code','Consolas',monospace" font-size="15" font-weight="700" fill="#58A6FF">Rol<tspan font-weight="400" fill="#C9D1D9">: Full Stack Developer</tspan></text>
   <text x="340" y="234" font-family="'Cascadia Code','Consolas',monospace" font-size="15" font-weight="700" fill="#58A6FF">Lenguajes<tspan font-weight="400" fill="#C9D1D9">: JavaScript · Java · Python</tspan></text>
