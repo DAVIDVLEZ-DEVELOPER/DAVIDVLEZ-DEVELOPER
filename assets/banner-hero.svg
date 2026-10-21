@@ -74,10 +74,10 @@
 
   <text x="86" y="172" font-family="'Cascadia Code','Consolas',monospace" font-size="76" font-weight="700" fill="#E95420" opacity="0.16">&lt;/&gt;</text>
 
-  <text x="500" y="142" text-anchor="middle" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="58" font-weight="700" fill="#FFFFFF" letter-spacing="3">DAVID VÉLEZ</text>
+  <text x="500" y="142" text-anchor="middle" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="58" font-weight="700" fill="#FFFFFF" letter-spacing="3">DAVIID VLEZ</text>
   <rect class="wipe" x="330" y="160" width="340" height="6" rx="3" fill="url(#bar)"/>
   <text x="500" y="206" text-anchor="middle" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="23" fill="#CBD5E1">Tecnólogo ADSO · Full Stack Developer</text>
-  <text x="500" y="242" text-anchor="middle" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="16" fill="#8B949E">SENA · Sexto Trimestre · Medellín, Colombia</text>
+  <text x="500" y="242" text-anchor="middle" font-family="'Segoe UI',Ubuntu,Arial,sans-serif" font-size="16" fill="#8B949E"> Medellín, Colombia</text>
   <rect class="blink" x="742" y="230" width="9" height="16" fill="#E95420"/>
 
   <use href="#tux" transform="translate(892,272) scale(1.15)"/>
