@@ -57,14 +57,14 @@
   <rect class="wipe" x="100" y="106" width="210" height="5" rx="2.5" fill="url(#rule)"/>
 
   <g font-family="'Cascadia Code','Consolas',monospace" font-size="15">
-    <text x="100" y="150" font-weight="700" fill="#F5A623">Formación<tspan font-weight="400" fill="#C9D1D9">: SENA · ADSO · Sexto trimestre</tspan></text>
-    <text x="100" y="176" font-weight="700" fill="#F5A623">Rol<tspan font-weight="400" fill="#C9D1D9">: Full Stack Developer</tspan></text>
-    <text x="100" y="202" font-weight="700" fill="#F5A623">Lenguajes<tspan font-weight="400" fill="#C9D1D9">: JavaScript · Java · Python</tspan></text>
+    <text x="100" y="150" font-weight="700" fill="#F5A623">Education<tspan font-weight="400" fill="#C9D1D9">: SENA · ADSO · 6th semester</tspan></text>
+    <text x="100" y="176" font-weight="700" fill="#F5A623">Role<tspan font-weight="400" fill="#C9D1D9">: Full Stack Developer</tspan></text>
+    <text x="100" y="202" font-weight="700" fill="#F5A623">Languages<tspan font-weight="400" fill="#C9D1D9">: JavaScript · Java · Python</tspan></text>
     <text x="100" y="228" font-weight="700" fill="#F5A623">Backend<tspan font-weight="400" fill="#C9D1D9">: Node.js · Express · Django · FastAPI</tspan></text>
-    <text x="100" y="254" font-weight="700" fill="#F5A623">Datos<tspan font-weight="400" fill="#C9D1D9">: PostgreSQL · MySQL · MongoDB</tspan></text>
+    <text x="100" y="254" font-weight="700" fill="#F5A623">Databases<tspan font-weight="400" fill="#C9D1D9">: PostgreSQL · MySQL · MongoDB</tspan></text>
     <text x="100" y="280" font-weight="700" fill="#F5A623">DevOps<tspan font-weight="400" fill="#C9D1D9">: Docker · Kubernetes · Git</tspan></text>
     <text x="100" y="306" font-weight="700" fill="#F5A623">Email<tspan font-weight="400" fill="#E95420">: daviidvp228@gmail.com</tspan></text>
-    <text x="100" y="332" font-weight="700" fill="#F5A623">Ubicación<tspan font-weight="400" fill="#C9D1D9">: Medellín, Colombia · Abierto a oportunidades</tspan></text>
+    <text x="100" y="332" font-weight="700" fill="#F5A623">Location<tspan font-weight="400" fill="#C9D1D9">: Medellín, Colombia · Open to opportunities</tspan></text>
   </g>
 
   <text x="100" y="364" font-family="'Cascadia Code','Consolas',monospace" font-size="15" fill="#A2AAC3">$</text>

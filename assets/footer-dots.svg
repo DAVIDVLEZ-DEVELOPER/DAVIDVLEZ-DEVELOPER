@@ -10,7 +10,7 @@
   <rect width="1000" height="76" rx="14" fill="#0D1117"/>
   <rect width="1000" height="76" rx="14" fill="none" stroke="#30363D" stroke-width="2"/>
 
-  <text x="500" y="32" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#8B949E">David Vélez · Tecnólogo ADSO · Medellín, Colombia · 2026<tspan class="blink" fill="#E95420">_</tspan></text>
+  <text x="500" y="32" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#8B949E">Daviid Vlez · ADSO Technologist · Medellín, Colombia · 2026<tspan class="blink" fill="#E95420">_</tspan></text>
 
   <g transform="translate(440,50)">
     <rect class="pulse" x="0" y="0" width="10" height="10" rx="2" fill="#E95420" style="animation-delay:0s"/>
