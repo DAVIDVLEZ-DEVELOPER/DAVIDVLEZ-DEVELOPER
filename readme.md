@@ -79,12 +79,12 @@
 <div align="center">
   <p><code>signals: fullstack_skill_radar · language_stack_radar · status: healthy</code></p>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DAVIDVLEZ-DEVELOPER&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=DAVIDVLEZ-DEVELOPER&theme=tokyonight&border=30363D" alt="Contribution streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DAVIDVLEZ-DEVELOPER&show_icons=true&include_all_commits=true&count_private=true&title_color=A4161A&icon_color=E5989B&text_color=C9D1D9&label_color=A4161A&bg_color=150A21&border_color=3A1F4D&ring_color=A4161A" alt="GitHub stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=DAVIDVLEZ-DEVELOPER&background=150A21&border=3A1F4D&stroke=3A1F4D&ring=A4161A&fire=A4161A&currStreakNum=E5989B&currStreakLabel=E5989B&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&excludeDaysLabel=8B949E" alt="Contribution streak"/>
 
   <br/><br/>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVIDVLEZ-DEVELOPER&layout=compact&theme=tokyonight&bg_color=0D1117" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVIDVLEZ-DEVELOPER&layout=compact&bg_color=150A21&title_color=A4161A&text_color=C9D1D9&label_color=A4161A&icon_color=E5989B" alt="Top languages"/>
 
   <br/><br/>
 
@@ -94,7 +94,7 @@
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAVIDVLEZ-DEVELOPER&theme=github-dark&bg_color=0D1117&color=58A6FF&line=A4161A&point=79C0FF&height=220" alt="Activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAVIDVLEZ-DEVELOPER&theme=github-dark&bg_color=150A21&color=A4161A&point=E5989B&height=220" alt="Activity graph"/>
 </div>
 
 <br/>
@@ -103,6 +103,14 @@
 
 <div align="center">
   <img src="assets/pacman-game.svg" width="94%" alt="Yellow Pac-Man eating commits"/>
+</div>
+
+<br/>
+
+## 🐍 $ tail -f contributions.log
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DAVIDVLEZ-DEVELOPER/DAVIDVLEZ-DEVELOPER/output/github-snake.svg" alt="Contribution snake" width="94%"/>
 </div>
 
 <br/>
