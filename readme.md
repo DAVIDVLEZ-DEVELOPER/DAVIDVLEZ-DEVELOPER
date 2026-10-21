@@ -19,7 +19,7 @@
     <a href="mailto:daviidvp228@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-Contact-1C0B2E?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Gmail"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=DAVIDVLEZ-DEVELOPER&label=Views&color=E95420&style=flat-square&labelColor=0D1117" alt="Views"/>
+    <img src="https://komarev.com/ghpvc/?username=DAVIDVLEZ-DEVELOPER&label=Views&color=A4161A&style=flat-square&labelColor=0D1117" alt="Views"/>
   </p>
 </div>
 
@@ -94,7 +94,7 @@
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAVIDVLEZ-DEVELOPER&theme=github-dark&bg_color=0D1117&color=58A6FF&line=E95420&point=79C0FF&height=220" alt="Activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAVIDVLEZ-DEVELOPER&theme=github-dark&bg_color=0D1117&color=58A6FF&line=A4161A&point=79C0FF&height=220" alt="Activity graph"/>
 </div>
 
 <br/>
