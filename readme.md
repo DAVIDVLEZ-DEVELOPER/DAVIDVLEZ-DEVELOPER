@@ -46,7 +46,7 @@
       <p><i>💡 "El software es una gran combinación entre arte e ingeniería."</i></p>
     </td>
     <td valign="middle" align="center" width="22%">
-      <img src="https://assets.ubuntu.com/v1/21bcdd1e-resolute_raccoon_white.png" width="150" alt="Ubuntu 26.04 Resolute Raccoon"/>
+      <img src="assets/ubuntu-2604-raccoon.jpg" width="220" alt="Ubuntu 26.04 LTS Resolute Raccoon"/>
     </td>
   </tr>
 </table>*
