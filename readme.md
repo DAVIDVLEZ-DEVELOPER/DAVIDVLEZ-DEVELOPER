@@ -137,6 +137,10 @@
     <img src="https://img.shields.io/badge/GitHub-DAVIDVLEZ--DEVELOPER-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
+  <p>
+    <a href="mailto:daviidvp228@gmail.com"><img src="https://img.shields.io/badge/Email-daviidvp228%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="daviidvp228@gmail.com"/></a>
+  </p>
+
   <p><em>¿Tienes un proyecto o una oportunidad? ¡Hablemos! 🚀</em></p>
 </div>
 
