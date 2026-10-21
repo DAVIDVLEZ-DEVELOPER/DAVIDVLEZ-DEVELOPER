@@ -33,13 +33,23 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 🎓 **Tecnólogo en Análisis y Desarrollo de Software (ADSO)** — **SENA**, **sexto trimestre** de la etapa lectiva.
-- 💻 **Full Stack Developer** con base sólida en lógica de negocio, diseño de interfaces y arquitectura de software.
-- 🌱 Profundizando en **Docker & Kubernetes**, **APIs robustas** e **Inteligencia Artificial aplicada al desarrollo**.
-- 🗄️ Apasionado del **modelado y optimización de bases de datos relacionales**.
-- 📍 **Medellín, Antioquia — Colombia** · 🚀 Abierto a **prácticas profesionales y oportunidades laborales**.
-
-> 💡 *"El software es una gran combinación entre arte e ingeniería."*
+<table width="100%">
+  <tr>
+    <td valign="top" width="78%">
+      <ul>
+        <li>🎓 <b>Tecnólogo en Análisis y Desarrollo de Software (ADSO)</b> — <b>SENA</b>, <b>sexto trimestre</b> de la etapa lectiva.</li>
+        <li>💻 <b>Full Stack Developer</b> con base sólida en lógica de negocio, diseño de interfaces y arquitectura de software.</li>
+        <li>🌱 Profundizando en <b>Docker &amp; Kubernetes</b>, <b>APIs robustas</b> e <b>Inteligencia Artificial aplicada al desarrollo</b>.</li>
+        <li>🗄️ Apasionado del <b>modelado y optimización de bases de datos relacionales</b>.</li>
+        <li>📍 <b>Medellín, Antioquia — Colombia</b> · 🚀 Abierto a <b>prácticas profesionales y oportunidades laborales</b>.</li>
+      </ul>
+      <p><i>💡 "El software es una gran combinación entre arte e ingeniería."</i></p>
+    </td>
+    <td valign="middle" align="center" width="22%">
+      <img src="https://assets.ubuntu.com/v1/21bcdd1e-resolute_raccoon_white.png" width="150" alt="Ubuntu 26.04 Resolute Raccoon"/>
+    </td>
+  </tr>
+</table>*
 
 <br/>
 
@@ -106,10 +116,10 @@
 
 <br/>
 
-## 🦝 Pac-Mapache recoge mis contribuciones
+## 🎮 Pac-Man recoge mis contribuciones
 
 <div align="center">
-  <img src="assets/pacman-game.svg" width="94%" alt="Mapache estilo Pac-Man comiendo commits"/>
+  <img src="assets/pacman-game.svg" width="94%" alt="Pac-Man amarillo comiendo commits"/>
 </div>
 
 <br/>
