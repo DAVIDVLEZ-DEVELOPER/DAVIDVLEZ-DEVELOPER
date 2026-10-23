@@ -87,7 +87,7 @@
 <div align="center">
   <p><sub>A snapshot of the work behind the projects.</sub></p>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DAVIDVLEZ-DEVELOPER&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&title_color=00B4D8&icon_color=48CAE4&text_color=90E0EF&label_color=00B4D8&bg_color=06101F&border_color=1B3A5C&ring_color=00B4D8" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DAVIDVLEZ-DEVELOPER&show_icons=true&hide_rank=true&title_color=00B4D8&icon_color=48CAE4&text_color=90E0EF&label_color=00B4D8&bg_color=06101F&border_color=1B3A5C&ring_color=00B4D8&v=2" alt="GitHub stats"/>
   <img height="170" src="https://streak-stats.demolab.com?user=DAVIDVLEZ-DEVELOPER&background=06101F&border=1B3A5C&stroke=1B3A5C&ring=00B4D8&fire=00B4D8&currStreakNum=48CAE4&currStreakLabel=48CAE4&sideNums=90E0EF&sideLabels=90E0EF&dates=94A3B8&excludeDaysLabel=94A3B8" alt="Contribution streak"/>
 
   <br/><br/>
@@ -104,7 +104,7 @@
 ## `$ tail -f contributions.log`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DAVIDVLEZ-DEVELOPER/DAVIDVLEZ-DEVELOPER/output/github-snake.svg" width="94%" alt="Contribution snake"/>
+  <img src="https://raw.githubusercontent.com/DAVIDVLEZ-DEVELOPER/DAVIDVLEZ-DEVELOPER/output/github-snake.svg?v=2" width="94%" alt="Contribution snake"/>
 </div>
 
 <br/>
