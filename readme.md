@@ -6,20 +6,20 @@
 
 <div align="center">
   <a href="https://github.com/DAVIDVLEZ-DEVELOPER">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2800&pause=1200&color=C9D1D9&center=true&vCenter=true&width=740&lines=Full+Stack+Developer;ADSO+Technologist+at+SENA;6th+semester+-+Working+Student;Back-end+%26+RESTful+APIs;AI+applied+to+development;Docker+%26+Kubernetes" alt="Typing Subtitle"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2800&pause=1200&color=90E0EF&center=true&vCenter=true&width=740&lines=Full+Stack+Developer;ADSO+Technologist+at+SENA;6th+semester+-+Working+Student;Back-end+%26+RESTful+APIs;AI+applied+to+development;Docker+%26+Kubernetes" alt="Typing Subtitle"/>
   </a>
 
   <p>
     <a href="https://github.com/DAVIDVLEZ-DEVELOPER">
-      <img src="https://img.shields.io/badge/GitHub-DAVIDVLEZ--DEVELOPER-1C0B2E?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/GitHub-DAVIDVLEZ--DEVELOPER-0B1D33?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=06101F" alt="GitHub"/>
     </a>
     <a href="https://www.youtube.com/@DEIIVIDVLEZ">
-      <img src="https://img.shields.io/badge/YouTube-D%C2%B4VLEZ-1C0B2E?style=flat-square&logo=youtube&logoColor=FF0000&labelColor=0D1117" alt="YouTube"/>
+      <img src="https://img.shields.io/badge/YouTube-D%C2%B4VLEZ-0B1D33?style=flat-square&logo=youtube&logoColor=FF0000&labelColor=06101F" alt="YouTube"/>
     </a>
     <a href="mailto:daviidvp228@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-Contact-1C0B2E?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Gmail"/>
+      <img src="https://img.shields.io/badge/Gmail-Contact-0B1D33?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=06101F" alt="Gmail"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=DAVIDVLEZ-DEVELOPER&label=Views&color=A4161A&style=flat-square&labelColor=0D1117" alt="Views"/>
+    <img src="https://komarev.com/ghpvc/?username=DAVIDVLEZ-DEVELOPER&label=Views&color=00B4D8&style=flat-square&labelColor=06101F" alt="Views"/>
   </p>
 </div>
 
@@ -79,12 +79,12 @@
 <div align="center">
   <p><code>signals: fullstack_skill_radar · language_stack_radar · status: healthy</code></p>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DAVIDVLEZ-DEVELOPER&show_icons=true&include_all_commits=true&count_private=true&title_color=A4161A&icon_color=E5989B&text_color=C9D1D9&label_color=A4161A&bg_color=150A21&border_color=3A1F4D&ring_color=A4161A" alt="GitHub stats"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=DAVIDVLEZ-DEVELOPER&background=150A21&border=3A1F4D&stroke=3A1F4D&ring=A4161A&fire=A4161A&currStreakNum=E5989B&currStreakLabel=E5989B&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&excludeDaysLabel=8B949E" alt="Contribution streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DAVIDVLEZ-DEVELOPER&show_icons=true&include_all_commits=true&count_private=true&title_color=00B4D8&icon_color=48CAE4&text_color=90E0EF&label_color=00B4D8&bg_color=06101F&border_color=1B3A5C&ring_color=00B4D8" alt="GitHub stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=DAVIDVLEZ-DEVELOPER&background=06101F&border=1B3A5C&stroke=1B3A5C&ring=00B4D8&fire=00B4D8&currStreakNum=48CAE4&currStreakLabel=48CAE4&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&excludeDaysLabel=8B949E" alt="Contribution streak"/>
 
   <br/><br/>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVIDVLEZ-DEVELOPER&layout=compact&bg_color=150A21&title_color=A4161A&text_color=C9D1D9&label_color=A4161A&icon_color=E5989B" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAVIDVLEZ-DEVELOPER&layout=compact&bg_color=06101F&title_color=00B4D8&text_color=90E0EF&label_color=00B4D8&icon_color=48CAE4" alt="Top languages"/>
 
   <br/><br/>
 
@@ -94,7 +94,7 @@
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAVIDVLEZ-DEVELOPER&theme=github-dark&bg_color=150A21&color=A4161A&point=E5989B&height=220" alt="Activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAVIDVLEZ-DEVELOPER&theme=github-dark&bg_color=06101F&color=00B4D8&point=48CAE4&height=220" alt="Activity graph"/>
 </div>
 
 <br/>
