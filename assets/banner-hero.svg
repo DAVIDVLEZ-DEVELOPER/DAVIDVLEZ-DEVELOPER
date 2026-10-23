@@ -58,8 +58,25 @@
       .twinkle{animation:twinkle 3s ease-in-out infinite}
       .twinkle2{animation:twinkle 3s ease-in-out infinite 1.2s}
       @keyframes twinkle{0%,100%{opacity:.15}50%{opacity:.9}}
+      .typing{animation:up .8s cubic-bezier(.2,.7,.2,1) 1.15s backwards,type 2.8s steps(44) 1.35s both}
+      @keyframes type{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}
+      .bob1,.bob2,.bob3,.bob4{transform-box:fill-box;transform-origin:center;animation:bob 5.5s ease-in-out infinite alternate}
+      .bob2{animation-delay:-1.4s}.bob3{animation-delay:-2.8s}.bob4{animation-delay:-4.1s}
+      @keyframes bob{from{transform:translateY(0)}to{transform:translateY(-6px)}}
+      .scan{animation:scan 9s linear infinite}
+      @keyframes scan{from{transform:translateY(-90px)}to{transform:translateY(390px)}}
+      .fadein{animation:fade .9s ease 1s backwards}
+      @keyframes fade{from{opacity:0}to{opacity:1}}
+      @media (prefers-reduced-motion: reduce){
+        .in,.typing,.fadein,.scan,.bob1,.bob2,.bob3,.bob4,.flow,.pulse,.spin,.twinkle,.twinkle2{animation:none!important;opacity:1!important;clip-path:none!important}
+      }
     </style>
-  </defs>
+    <clipPath id="bannerClip"><rect width="1200" height="360" rx="22"/></clipPath>
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#48cae4" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#48cae4" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#caf0f8" stop-opacity="0"/>
+    </linearGradient>  </defs>
 
   <!-- fondo -->
   <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
@@ -67,7 +84,21 @@
   <circle class="orb1" cx="260" cy="70" r="150" fill="#0077b6" opacity="0.35" filter="url(#blur)"/>
   <circle class="orb2" cx="980" cy="300" r="170" fill="#00b4d8" opacity="0.22" filter="url(#blur)"/>
 
+  <g clip-path="url(#bannerClip)">
+    <rect class="scan" x="0" y="-90" width="1200" height="90" fill="url(#scanGrad)" opacity="0.8"/>
+  </g>
+
   <!-- estrellas -->
+  <circle class="twinkle" cx="880" cy="52" r="2" fill="#caf0f8"/>
+  <circle class="twinkle2" cx="1120" cy="82" r="1.6" fill="#90e0ef"/>
+  <circle class="twinkle2" cx="612" cy="300" r="1.4" fill="#caf0f8"/>
+  <circle class="twinkle" cx="758" cy="36" r="1.2" fill="#48cae4"/>
+  <circle class="twinkle" cx="1040" cy="34" r="1.3" fill="#caf0f8"/>
+  <circle class="twinkle2" cx="540" cy="42" r="1.8" fill="#90e0ef"/>
+  <circle class="twinkle" cx="700" cy="318" r="1.5" fill="#48cae4"/>
+  <circle class="twinkle2" cx="820" cy="340" r="1.2" fill="#caf0f8"/>
+  <circle class="twinkle" cx="460" cy="112" r="1.4" fill="#90e0ef"/>
+  <circle class="twinkle2" cx="1180" cy="250" r="1.7" fill="#caf0f8"/>
   <circle class="twinkle" cx="880" cy="52" r="2" fill="#caf0f8"/>
   <circle class="twinkle2" cx="1120" cy="82" r="1.6" fill="#90e0ef"/>
   <circle class="twinkle2" cx="612" cy="300" r="1.4" fill="#caf0f8"/>
@@ -89,10 +120,11 @@
     <rect x="64" y="210" width="360" height="3" rx="1.5" fill="url(#line)"/>
   </g>
 
-  <g class="mono in d4" font-size="15">
+  <g class="mono typing" font-size="15">
     <text x="64" y="246" fill="#94a3b8"><tspan fill="#00b4d8">const</tspan> stack <tspan fill="#00b4d8">=</tspan> <tspan fill="#ffd166">"Java · React · PostgreSQL"</tspan>;</text>
   </g>
 
+  <rect x="470" y="234" width="2" height="15" fill="#48CAE4" class="cursor"/>
   <g class="mono in d5" font-size="13" font-weight="600">
     <g transform="translate(64 272)">
       <rect width="78" height="30" rx="8" fill="#ed8b00" fill-opacity="0.14" stroke="#ed8b00" stroke-opacity="0.6"/>
@@ -110,6 +142,27 @@
       <rect width="88" height="30" rx="8" fill="#2496ed" fill-opacity="0.14" stroke="#2496ed" stroke-opacity="0.6"/>
       <text x="44" y="20" text-anchor="middle" fill="#8fd0ff">Docker</text>
     </g>
+  </g>
+
+  <g class="in d5">
+    <text x="64" y="314" class="mono" font-size="8.5" fill="#31516f" letter-spacing="1.4">DEPLOY PIPELINE</text>
+    <line x1="72" y1="330" x2="426" y2="330" stroke="#1b3a5c" stroke-width="2"/>
+    <line x1="72" y1="330" x2="426" y2="330" stroke="#00b4d8" stroke-width="2" class="flow" opacity="0.7"/>
+    <circle r="3.5" fill="#caf0f8" filter="url(#glow)"><animateMotion dur="3.2s" repeatCount="indefinite" path="M72 330 L426 330"/></circle>
+    <g>
+      <circle cx="72" cy="330" r="9" fill="none" stroke="#1b3a5c"/>
+      <circle cx="72" cy="330" r="4.5" fill="#00b4d8"/>
+      <circle cx="190" cy="330" r="9" fill="none" stroke="#1b3a5c"/>
+      <circle cx="190" cy="330" r="4.5" fill="#00b4d8"/>
+      <circle cx="308" cy="330" r="9" fill="none" stroke="#1b3a5c"/>
+      <circle cx="308" cy="330" r="4.5" fill="#00b4d8"/>
+      <circle cx="426" cy="330" r="9" fill="none" stroke="#2ee59d" stroke-opacity="0.6"/>
+      <circle cx="426" cy="330" r="4.5" fill="#2ee59d"/>
+    </g>
+    <text x="72" y="352" text-anchor="middle" class="mono" font-size="9.5" fill="#5b7a99">git</text>
+    <text x="190" y="352" text-anchor="middle" class="mono" font-size="9.5" fill="#5b7a99">build</text>
+    <text x="308" y="352" text-anchor="middle" class="mono" font-size="9.5" fill="#5b7a99">test</text>
+    <text x="426" y="352" text-anchor="middle" class="mono" font-size="9.5" fill="#2ee59d">deploy</text>
   </g>
 
   <!-- diagrama full stack animado -->
@@ -152,10 +205,40 @@
     <!-- nodo API -->
     <g transform="translate(958 136)">
       <circle class="pulse" cx="52" cy="44" r="44" fill="none" stroke="#00b4d8" stroke-width="2"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0 95 44" to="360 95 44" dur="18s" repeatCount="indefinite"/>
+        <circle cx="95" cy="44" r="62" fill="none" stroke="#48cae4" stroke-width="1" stroke-dasharray="2 10" opacity="0.55"/>
+        <circle cx="157" cy="44" r="2.5" fill="#caf0f8" filter="url(#glow)"/>
+      </g>
       <rect width="190" height="88" rx="16" fill="url(#node)" stroke="#00b4d8" stroke-opacity="0.8"/>
       <text x="22" y="34" class="mono" font-size="13" fill="#00b4d8">{ API REST }</text>
       <text x="22" y="58" class="sans" font-size="16" font-weight="700" fill="#ffffff">Node.js</text>
       <text x="22" y="76" class="mono" font-size="12" fill="#94a3b8">Express · Django</text>
+    </g>
+  </g>
+
+  <g transform="translate(516 70)" class="fadein">
+    <g class="bob1">
+      <rect width="96" height="28" rx="8" fill="#f7df1e" fill-opacity="0.08" stroke="#f7df1e" stroke-opacity="0.45"/>
+      <text x="48" y="19" text-anchor="middle" class="mono" font-size="11.5" font-weight="600" fill="#ffe97a">JavaScript</text>
+    </g>
+  </g>
+  <g transform="translate(880 34)" class="fadein">
+    <g class="bob2">
+      <rect width="84" height="28" rx="8" fill="#009688" fill-opacity="0.12" stroke="#009688" stroke-opacity="0.55"/>
+      <text x="42" y="19" text-anchor="middle" class="mono" font-size="11.5" font-weight="600" fill="#7fe0d8">FastAPI</text>
+    </g>
+  </g>
+  <g transform="translate(520 250)" class="fadein">
+    <g class="bob3">
+      <rect width="96" height="28" rx="8" fill="#47a248" fill-opacity="0.12" stroke="#47a248" stroke-opacity="0.55"/>
+      <text x="48" y="19" text-anchor="middle" class="mono" font-size="11.5" font-weight="600" fill="#a7e3a7">MongoDB</text>
+    </g>
+  </g>
+  <g transform="translate(872 306)" class="fadein">
+    <g class="bob4">
+      <rect width="80" height="28" rx="8" fill="#3776ab" fill-opacity="0.14" stroke="#3776ab" stroke-opacity="0.6"/>
+      <text x="40" y="19" text-anchor="middle" class="mono" font-size="11.5" font-weight="600" fill="#9ec5f0">Python</text>
     </g>
   </g>
 
